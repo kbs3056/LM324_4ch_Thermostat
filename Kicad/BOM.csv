@@ -1,0 +1,18 @@
+Id,Designator,Package,Quantity,Designation,Description
+1,"J1,J5,J4,J3",PinSocket_1x02_P2.54mm_Vertical,4,NTC50k,
+2,D4,LED_D3.0mm,1,LED,
+3,J2,PinSocket_1x02_P2.54mm_Vertical,1,supl.,
+4,BZ1,MagneticBuzzer_Kingstate_KCG0601,1,Buzzer,5V gen.
+5,"D1,D3,D5,D2",D_MiniMELF,4,1N4148,
+6,RN2,R_Array_Convex_4x0603,1,2k2,
+7,RN1,R_Array_Convex_4x0603,1,22k,
+8,"JP2,JP1",SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels,2,Jumper_3_Bridged12,
+9,Q1,SOT-23,1,MMBT3904,
+10,"C4,C5,C2,C3",C_0805_2012Metric,4,100n,
+11,Q2,SOT-23,1,MMBT3906,
+12,J6,PinSocket_1x02_P2.54mm_Vertical,1,Out OC,
+13,C1,C_0805_2012Metric,1,1u,
+14,R8,R_1206_3216Metric,1,12k,
+15,U1,SOIC-14_3.9x8.7mm_P1.27mm,1,LM324,
+16,R1,R_1206_3216Metric,1,30k,
+17,"R2,R3",R_1206_3216Metric,2,opt,Optional
