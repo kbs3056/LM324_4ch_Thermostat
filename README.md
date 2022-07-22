@@ -3,4 +3,7 @@ Four input thermostat with one OC output.
 
 PCB approx 21x21mm.
 ![](lm324_4ch_therm.png)
+
 ![](sch.png)
+
+![](lm324_4ch_therm2.png)
